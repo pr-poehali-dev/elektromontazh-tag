@@ -86,7 +86,7 @@ export default function Index() {
       <section className="bg-gradient-to-br from-primary via-orange-500 to-secondary text-white py-20 px-4">
         <div className="container mx-auto text-center">
           <h1 className="text-5xl md:text-6xl font-roboto font-bold mb-6 animate-fade-in">
-            Электромонтаж в Таганроге
+            Электрик в Таганроге
           </h1>
           <p className="text-xl md:text-2xl mb-8 opacity-90">
             Профессиональные услуги электрика • Аварийные вызовы 24/7
